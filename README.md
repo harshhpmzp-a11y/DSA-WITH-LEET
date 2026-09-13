@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
