@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
