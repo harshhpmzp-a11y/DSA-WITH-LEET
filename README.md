@@ -54,9 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
