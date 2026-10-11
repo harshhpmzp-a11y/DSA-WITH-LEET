@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
