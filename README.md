@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
