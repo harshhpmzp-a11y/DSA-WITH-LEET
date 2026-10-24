@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2409-count-days-spent-together) |
 ## Geometry
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2409-count-days-spent-together](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
