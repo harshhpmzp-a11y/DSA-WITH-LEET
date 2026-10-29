@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2409-count-days-spent-together](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3498-reverse-degree-of-a-string) |
@@ -89,4 +90,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
