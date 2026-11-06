@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
