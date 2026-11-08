@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0217-contains-duplicate) |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -117,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshhpmzp-a11y/DSA-WITH-LEET/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
